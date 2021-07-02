@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/Challenger-School.jpg
-    background_image_opacity: 50
+    background_image_opacity: 0
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
