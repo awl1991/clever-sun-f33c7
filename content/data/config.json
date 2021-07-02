@@ -24,6 +24,11 @@
                 "type": "action"
             },
             {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "Roofing",
                 "url": "/features",
                 "style": "link"
@@ -31,11 +36,6 @@
             {
                 "label": "Gutters",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
                 "style": "link"
             },
             {
