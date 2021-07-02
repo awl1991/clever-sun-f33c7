@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: secondary
     background_image: /images/Challenger-School.jpg
     background_image_opacity: 50
   - type: grid_section
