@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
     background_image: /images/Challenger-School.jpg
   - type: grid_section
     title: Image Grid
