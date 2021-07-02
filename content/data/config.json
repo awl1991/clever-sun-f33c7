@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Home",
-                "url": "/https://clever-sun-f33c7.netlify.app",
+                "url": "/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
