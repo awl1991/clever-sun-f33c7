@@ -148,7 +148,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: twenty-five
-      - title: Section Item 2
+      - title: Commercial Insurance Claims
         title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
