@@ -148,7 +148,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Section Item 2
-        title_align: left
+        title_align: center
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
