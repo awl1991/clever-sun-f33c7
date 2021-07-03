@@ -124,7 +124,6 @@ export default class FeaturesSection extends React.Component {
             >
                 {backgroundImage && <SectionBackground section={section} />}
                 {(title || subtitle) && (
-                    <h1>HIIIIIIIII</h1>
                     <div
                         className={classNames('container', 'container--medium', {
                             'mb-5': featurePaddingY === 'small' || featurePaddingY === 'medium',
@@ -132,7 +131,8 @@ export default class FeaturesSection extends React.Component {
                             'text-center': alignX === 'center',
                             'text-right': alignX === 'right'
                         })}
-                    >
+                    >                    <h1>HIIIIIIIII</h1>
+
                         {subtitle && <div className="section__subtitle">{subtitle}</div>}
                         {title && <h2 className="section__title mt-0">{title}</h2>}
                     </div>
