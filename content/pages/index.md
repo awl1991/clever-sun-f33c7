@@ -56,7 +56,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: Roofing
+    title: Roofing Services
     subtitle: Features Section Example
     features:
       - title: Commercial Roofing
