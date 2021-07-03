@@ -109,7 +109,6 @@ export default class FeaturesSection extends React.Component {
             <section
                 id={sectionId}
                 className={classNames('section', 'features', {
-                    'has-border': hasBorder,
                     'has-cover': backgroundImage,
                     'bg-none': backgroundColor === 'none',
                     'bg-primary': backgroundColor === 'primary',
