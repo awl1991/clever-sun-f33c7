@@ -148,7 +148,6 @@ export default class GridItem extends React.Component {
                                                 'text-center': contentAlignX === 'center',
                                                 'text-right': contentAlignX === 'right'
                                             })}
-                                            style={{textAlign: 'center'}}
                                         >
                                             {markdownify(content)}
                                         </div>
