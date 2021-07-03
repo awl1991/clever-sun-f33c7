@@ -147,7 +147,7 @@ export default class GridItem extends React.Component {
                                         <div
                                             className={classNames('item__copy', {
                                                 'text-center': contentAlignX === 'center',
-                                                'text-right': contentAlignX === 'center'
+                                                'text-right': contentAlignX === 'right'
                                             })}
                                         >
                                             {markdownify(content)}
