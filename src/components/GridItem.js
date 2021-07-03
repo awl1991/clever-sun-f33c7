@@ -97,7 +97,7 @@ export default class GridItem extends React.Component {
                                             'mx-auto': imageAlignX === 'center',
                                             'ml-auto': imageAlignX === 'right'
                                         })}
-                                        style={{width:'65%'}}
+                                        style={{width:'50%'}}
                                     />
                                 </div>
                             </div>
