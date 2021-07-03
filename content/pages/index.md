@@ -274,7 +274,7 @@ sections:
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
-        title_align: center
+        title_align: left
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Hugh Saturation
