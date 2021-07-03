@@ -124,6 +124,7 @@ export default class FeaturesSection extends React.Component {
             >
                 {backgroundImage && <SectionBackground section={section} />}
                 {(title || subtitle) && (
+                    <h1>HIIIIIIIII</h1>
                     <div
                         className={classNames('container', 'container--medium', {
                             'mb-5': featurePaddingY === 'small' || featurePaddingY === 'medium',
