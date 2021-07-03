@@ -57,7 +57,6 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Roofing Services
-    subtitle: Features Section Example
     features:
       - title: Commercial Roofing
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
