@@ -127,7 +127,7 @@ sections:
     title: Insurance Restoration
     subtitle: Grid Section Example
     grid_items:
-      - title: Residential Claims
+      - title: Residential Insurance Claims
         title_align: center
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
